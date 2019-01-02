@@ -1,0 +1,2 @@
+# LuckyNeoNew
+A LuckyNeo smartContract
