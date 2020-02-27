@@ -1,2 +1,2 @@
 # LuckyNeoNew
-A LuckyNeo smartContract on NEO blockchain
+A LuckyNeo smartContract on NEO blockchain.
